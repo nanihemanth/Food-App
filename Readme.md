@@ -122,63 +122,19 @@ The manage.py file is Django's command-line utility for managing the project, an
 
 HOME PAGE
 	![HOME](images/home.png)
-
-
-## Visualization
-
-- Count Plot for the number of taxi rides for each passenger-count
-
-  ![Visualization-1](images/g1.png)
-- Count Plot for the number of taxi rides for each shift
-
-  ![Visualization-2](images/g2.png)
-- Count plot for the number of taxi rides in each year
-
-  ![Visualization-3](images/g3.png)
-- Count plot for the number of taxi rides in each year and shift
-
-  ![Visualization-4](images/g4.png)
-- Count plot for the number of taxi rides in each year and type
-
-  ![Visualization-5](images/g5.png)
-- Trends in total average amount vs YEAR,MONTH,DAY,HOUR
-
-  ![Visualization-6](images/g6.png)
-- Line plot for total average amount and each shift
-
-  ![Visualization-7](images/g7.png)
-- Pick up Points
-
-  ![Map-1](images/map1.png)
-- Drop off  Points
-
-  ![Map-2](images/map2.png)
-
-## Results
-
-- RMSE and R2-score
-	![Results](images/results.png)
-
-
-## App Structure
-
-The app is organized into different sections for easy navigation:
-
-- `Dataset`: View the original and transformed datasets used for training the model.
-- `Description`: Explore dataset descriptions and relevant insights.
-- `Transformation`: Visualize data transformation steps.
-- `Graphs`:  View graphical representations of data analysis.
-- `Maps:` See pickup and dropoff points on interactive maps.
-- `Model:` Input passenger count, year, month, and distance to predict taxi fare.
-
-
-
-
+DETAIL PAGE
+	![DETAIL](images/detail.png)
+UPDATE PAGE
+	![UPDATE](images/update.png)
+ADD PAGE
+	![ADD](images/add.png)
+DELETE PAGE
+	![DELETE](images/delete.png)
 
 
 ## Contributing
 
-Contributions to the NYC Taxi Fare Prediction Web App are welcome. If you encounter any bugs, have suggestions for improvements, or want to add new features, please open an issue or submit a pull request to the repository.
+Contributions to the FoodApp are welcome. If you encounter any bugs, have suggestions for improvements, or want to add new features, please open an issue or submit a pull request to the repository.
 
 ## License
 
