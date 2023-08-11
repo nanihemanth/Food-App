@@ -5,7 +5,6 @@ Welcome to the Food App! FoodApp is a Django web application for managing food i
 ## Table of Contents
 
 - Prerequisites and Installation
-- Installation
 - Usage
 - Project Structure
 - Visual Walkthrough of the Web App
