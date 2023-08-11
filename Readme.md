@@ -1,5 +1,5 @@
 # Food App README
-![Food App](images/foody.png)
+![Food App](images/home.png)
 
 Welcome to the Food App! FoodApp is a Django web application for managing food items. It allows you to add, update, and delete food items, as well as view their details.
 ## Table of Contents
