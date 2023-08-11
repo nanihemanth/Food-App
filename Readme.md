@@ -8,9 +8,9 @@ Welcome to the Food App! FoodApp is a Django web application for managing food i
 - Installation
 - Usage
 - Project Structure
-- 
-- 
-## Prerequisites
+- Visual Walkthrough of the Web App
+
+
 
 Make sure you have the following dependencies installed:
 
@@ -118,10 +118,10 @@ The manage.py file is Django's command-line utility for managing the project, an
 
 
 
-## Output Images
+## Visual Walkthrough of the Web App
 
-After entering the inputs(number of passengers,distance,year), the app will predict the estimated fare.
-	![Prediction](images/3.png)
+HOME PAGE
+	![HOME](images/home.png)
 
 
 ## Visualization
